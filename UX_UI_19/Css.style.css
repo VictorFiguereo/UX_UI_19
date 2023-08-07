@@ -1,0 +1,84 @@
+ 
+  h1 {
+   color:red;
+  }
+
+
+  h2 {
+    color:blue;
+  }
+
+  p {
+
+
+
+
+  }
+  
+  
+  #myHeader {
+    background-color: #8D8D8D;
+    width: 1280px;
+    height: 65px;
+    flex-shrink: 0;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  }
+
+button {
+  /*changes color*/
+  background-color: #000000;
+  /*rounded edges*/
+  border-radius:30px;
+  border:1px solid #8A71DA;
+  border: 1px solid ;
+  font-family:'Noto Sans ', sans-serif;
+  font-size:18px;
+  text-transform: uppercase;
+  padding:20px;
+}
+
+
+{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+   }
+
+
+    body {
+      min-height: 100vh;
+      width:100%;
+      margin: 0 auto;
+    }
+
+
+  
+/*font*/
+
+* {
+     font-family: 'Poppins', sans-serif;
+   }
+
+   
+ /*navigation style */
+
+ a {
+   text-decoration: none;
+   color: 00000;
+ }
+
+ nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+ }
+
+ nav ul ui {
+  padding: 20px;
+ }
+
+ nav a:hover {
+   background-color: lightgrey;
+ }
